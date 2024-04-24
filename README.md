@@ -55,6 +55,23 @@ This system consists of the following pages.
 - **Sales** - Storing information of sold medicinal items to patients and ensure to confirm so that the sales get updated in the items page.
 
 ## Home interface
+<img src="Screenshots/homejava.jpg" alt="Screenshot" width="700"/>
+
+## Items interface
+<img src="Screenshots/items.jpg" alt="Screenshot" width="700"/>
+
+## Supplier interface
+<img src="Screenshots/supplier.jpg" alt="Screenshot" width="700"/>
+
+## Patient Details interface
+<img src="Screenshots/patient.jpg" alt="Screenshot" width="700"/>
+
+## Purchases interface
+<img src="Screenshots/purchases.jpg" alt="Screenshot" width="700"/>
+
+## Sales interface
+<img src="Screenshots/sales.jpg" alt="Screenshot" width="700"/>
+
 
 
 ## License
